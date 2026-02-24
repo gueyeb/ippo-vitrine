@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" fill="none">
+  <rect width="1080" height="1920" fill="#EEF5ED"/>
+  <rect x="90" y="70" width="900" height="1780" rx="72" fill="#FFFFFF" stroke="#D3DED0" stroke-width="8"/>
+  <text x="150" y="190" fill="#12211A" font-family="Arial, sans-serif" font-size="54" font-weight="700">Itinéraire</text>
+  <rect x="150" y="250" width="780" height="1180" rx="34" fill="#E8F0E5"/>
+  <path d="M210 420 C320 310 410 520 470 470 C600 360 620 700 780 600 C850 560 860 760 840 920 C820 1080 690 1110 640 1240" stroke="#0D8F68" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="210" cy="420" r="22" fill="#0D8F68"/>
+  <circle cx="640" cy="1240" r="22" fill="#DB6A5C"/>
+  <rect x="150" y="1470" width="780" height="150" rx="28" fill="#F9FBF7" stroke="#DCE5D8"/>
+  <text x="190" y="1548" fill="#55645A" font-family="Arial, sans-serif" font-size="30">Distance</text>
+  <text x="190" y="1598" fill="#12211A" font-family="Arial, sans-serif" font-size="48" font-weight="700">7.2 km</text>
+  <text x="610" y="1548" fill="#55645A" font-family="Arial, sans-serif" font-size="30">Durée</text>
+  <text x="610" y="1598" fill="#12211A" font-family="Arial, sans-serif" font-size="48" font-weight="700">01:06:14</text>
+</svg>

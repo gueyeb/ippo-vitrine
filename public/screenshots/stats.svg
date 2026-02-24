@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" fill="none">
+  <rect width="1080" height="1920" fill="#EEF5ED"/>
+  <rect x="90" y="70" width="900" height="1780" rx="72" fill="#FFFFFF" stroke="#D3DED0" stroke-width="8"/>
+  <text x="150" y="190" fill="#12211A" font-family="Arial, sans-serif" font-size="54" font-weight="700">Statistiques</text>
+  <rect x="150" y="260" width="780" height="260" rx="28" fill="#0D8F68"/>
+  <text x="190" y="345" fill="#D9FFF0" font-family="Arial, sans-serif" font-size="30">Cette semaine</text>
+  <text x="190" y="430" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="74" font-weight="700">31.4 km</text>
+  <text x="190" y="480" fill="#D9FFF0" font-family="Arial, sans-serif" font-size="30">5 sessions · 41 002 pas</text>
+  <rect x="150" y="560" width="780" height="560" rx="28" fill="#F8FAF6" stroke="#DCE5D8"/>
+  <path d="M210 980 L210 660" stroke="#CBD6C8" stroke-width="4"/>
+  <path d="M210 980 L870 980" stroke="#CBD6C8" stroke-width="4"/>
+  <path d="M240 920 C330 840 380 890 470 770 C560 650 640 820 720 720 C780 645 830 700 850 640" stroke="#0D8F68" stroke-width="14" stroke-linecap="round" fill="none"/>
+  <circle cx="470" cy="770" r="12" fill="#0D8F68"/>
+  <circle cx="720" cy="720" r="12" fill="#0D8F68"/>
+  <rect x="150" y="1160" width="375" height="200" rx="28" fill="#F8FAF5" stroke="#DCE5D8"/>
+  <text x="185" y="1245" fill="#55645A" font-family="Arial, sans-serif" font-size="28">Moyenne / jour</text>
+  <text x="185" y="1310" fill="#12211A" font-family="Arial, sans-serif" font-size="48" font-weight="700">5 857 pas</text>
+  <rect x="555" y="1160" width="375" height="200" rx="28" fill="#F8FAF5" stroke="#DCE5D8"/>
+  <text x="590" y="1245" fill="#55645A" font-family="Arial, sans-serif" font-size="28">Durée totale</text>
+  <text x="590" y="1310" fill="#12211A" font-family="Arial, sans-serif" font-size="48" font-weight="700">4h 52m</text>
+</svg>

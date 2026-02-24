@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" fill="none">
+  <rect width="1080" height="1920" fill="#ECF4EC"/>
+  <rect x="90" y="70" width="900" height="1780" rx="72" fill="#FFFFFF" stroke="#D3DED0" stroke-width="8"/>
+  <text x="150" y="200" fill="#0D8F68" font-family="Arial, sans-serif" font-size="46" font-weight="700">Ippo</text>
+  <text x="150" y="275" fill="#12211A" font-family="Arial, sans-serif" font-size="58" font-weight="700">Session en cours</text>
+  <rect x="150" y="340" width="780" height="220" rx="32" fill="#EFF7F1"/>
+  <text x="190" y="435" fill="#55645A" font-family="Arial, sans-serif" font-size="34">Temps</text>
+  <text x="190" y="500" fill="#12211A" font-family="Arial, sans-serif" font-size="62" font-weight="700">00:42:18</text>
+  <rect x="150" y="600" width="375" height="200" rx="28" fill="#F8FAF5" stroke="#DCE5D8"/>
+  <text x="185" y="690" fill="#55645A" font-family="Arial, sans-serif" font-size="30">Distance</text>
+  <text x="185" y="748" fill="#12211A" font-family="Arial, sans-serif" font-size="52" font-weight="700">4.7 km</text>
+  <rect x="555" y="600" width="375" height="200" rx="28" fill="#F8FAF5" stroke="#DCE5D8"/>
+  <text x="590" y="690" fill="#55645A" font-family="Arial, sans-serif" font-size="30">Pas</text>
+  <text x="590" y="748" fill="#12211A" font-family="Arial, sans-serif" font-size="52" font-weight="700">6 281</text>
+  <rect x="150" y="860" width="780" height="760" rx="36" fill="#E9F2EA"/>
+  <path d="M220 1400 C330 1280 410 1480 520 1365 C630 1250 700 1425 840 1200" stroke="#0D8F68" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="220" cy="1400" r="18" fill="#0D8F68"/>
+  <circle cx="840" cy="1200" r="18" fill="#0D8F68"/>
+  <rect x="150" y="1660" width="780" height="110" rx="55" fill="#0D8F68"/>
+  <text x="390" y="1732" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="40" font-weight="700">Terminer</text>
+</svg>
